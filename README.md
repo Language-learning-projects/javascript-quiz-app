@@ -27,4 +27,10 @@ For your JavaScript project, you can build a quiz application that tests the use
 
 ## Requirements
 
-- ...
+- A user must be able to start a quiz about JavaScript concepts.
+- A user must be able to start a quiz about HTML concepts.
+- A user must be able to start a quiz about CSS concepts.
+- A user must have a local high score for each quiz type.
+- A user must be able to choose out of different amounts of multiple choice options to answer a question.
+- New questions must be easily added to any quiz type.
+- A document needs to be present in the repository that briefly explains the complex JavaScript concepts to be used in this project.
