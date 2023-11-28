@@ -1,3 +1,5 @@
+![status](https://badgen.net/static/status/planned/grey/)
+
 # JavaScript quiz app
 
 This repository contains code of a learning project called: "JavaScript quiz app".
